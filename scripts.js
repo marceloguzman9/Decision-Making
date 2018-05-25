@@ -22,8 +22,8 @@ console.log(yourGrade);
 
           
 
- 
-(firstName = "John") ? 
+let firstName = "John";
+(firstName ==="John") ? 
   document.getElementById("demo").innerHTML = "Hello John!"
 :
  document.getElementById("demo").innerHTML = "Hello Human!";
