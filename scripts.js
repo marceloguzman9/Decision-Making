@@ -20,7 +20,18 @@ switch(highSchoolGrade){
    console.log(yourGrade);
 
           
-      
+      let firstName= "John" ?  "Hello John!" : "Hello Human!";
+
+   //function name() {
+//  if (firstName === "John") {
+//    document.getElementById("demo").innerHTML = "Hello John!";
+//  }
+//  else {
+//    document.getElementById("demo").innerHTML = "Hello Human!";
+//  }
+//}
+          
+     
     
     
 
